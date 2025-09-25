@@ -23,16 +23,16 @@ Developed as part of the Scalable Data course (Big Data on Azure).
 ## Visuals
 
 - Global Rainfall Choropleth  
-  ![Choropleth](visuals/Choropleth map.png)
+  ![Choropleth](Visuals/Choropleth map.png)
 
 - Annual Average TMIN & TMAX (New Zealand)  
-  ![Annual TMIN/TMAX](visuals/AAnnual average TMIN and TMAX.png)
+  ![Annual TMIN/TMAX](Visuals/Annual average TMIN and TMAX.png)
 
 - National TMIN & TMAX Time Series  
-  ![Time Series](visuals/Annual average TMIN and TMAX time series.png)
+  ![Time Series](Visuals/Annual average TMIN and TMAX time series.png)
 
 - Weather Stations in New Zealand  
-  ![Stations Map](visuals/weather stations map.png)
+  ![Stations Map](Visuals/weather stations map.png)
   
 
 ## Project Structure
