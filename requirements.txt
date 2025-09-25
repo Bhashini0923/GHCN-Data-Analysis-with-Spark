@@ -1,0 +1,20 @@
+# Core
+pyspark
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+geopandas
+contextily
+
+# Jupyter
+notebook
+jupyterlab
+ipykernel
+
+# Geospatial / Mapping
+shapely
+fiona
+pyproj
